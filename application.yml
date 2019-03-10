@@ -1,3 +1,3 @@
-spring:
+server:
   title: puduct
   port: 8820
