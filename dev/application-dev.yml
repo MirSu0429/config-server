@@ -1,0 +1,3 @@
+server:
+  title: dev
+  port: 8800
